@@ -1,0 +1,2 @@
+# Dell_Latitude_3400
+Dell_Latitude_3400 Hackintosh OpenCore
