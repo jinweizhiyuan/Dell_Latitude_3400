@@ -1,5 +1,5 @@
 # Dell_Latitude_3400
-Dell Latitude 3400 Hackintosh OpenCore EFI
+Dell Latitude 3400 Hackintosh OpenCore 0.8.5 EFI
 
 |              |                                     |
 | ------------ | ----------------------------------- |
